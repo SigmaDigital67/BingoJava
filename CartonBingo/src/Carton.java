@@ -49,7 +49,7 @@ public class Carton extends JFrame {
     private int arrayConexion[];
     private JButton btnColor;
     private JColorChooser dlgColor;
-    private JTextField textField;
+    private JTextField textField;	
     private JTextField textField_1;
     private JButton btnNum16;
     private JButton btnNum17;
